@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "recharts": "^1.6.2",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "victory": "^32.2.3"
   },
   "scripts": {
