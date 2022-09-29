@@ -7,9 +7,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "socket.io": "^2.2.0",
-    "victory": "^32.2.3"
+    "victory": "^36.6.8"
   },
   "scripts": {
     "start": "react-scripts start",
